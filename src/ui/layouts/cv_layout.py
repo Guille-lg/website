@@ -22,9 +22,9 @@ CV_SECTIONS = [
             'date': '2019 - 2024',
             'description': [
                 'Proficient in programming languages, such as Python, R, Java, C++, or JavaScript, among others.',
-                'Knowledge of database systems and querying languages such as SQL, Oracle, MongoDB, ',
+                'Knowledge of database systems and querying languages such as SQL, Oracle, MongoDB.',
                 'Knowledge of project management methodologies and practices such as Agile and Scrum.',
-                'Ability to design and develop web applications and software solutions'
+                'Ability to design and develop web applications and software solutions.'
                 ]
         },
             {
@@ -54,8 +54,7 @@ CV_SECTIONS = [
                     'Responsible for developing and implementing data-driven solutions for complex development challenges, utilizing machine learning, data augmentation, statistical analysis, and other advanced techniques.',
                     'Designed and developed a web application for data labeling, which was subsequently used to train a machine learning model, creating high-quality data that improved model performance.',
                     'Applied web scraping and data analysis techniques to gather information from multiple sources and generate useful datasets for training different models.',
-
-                
+                    'Actively contributed to the development and implementation of data quality assurance processes to ensure accurate and reliable results.',
                 ]
             },
             {
@@ -64,7 +63,10 @@ CV_SECTIONS = [
                 'institution_url': 'N/A',
                 'date': '2021 - 2023',
                 'description': [
-                    'Instructor of various subjects at the university and vocational training level, covering topics ranging from algorithms and data structures to databases and software architecture.',
+                    'Instructor of various subjects at the university and vocational training level',
+                    'Taught programming languages such as Python, Java, and C++, as well as database management systems such as SQL, Oracle and MongoDB.',
+                    'Taught subjects such as data structures, algorithms, and object-oriented programming.',
+                    'Also taught statistics and mathematics, including probability, linear algebra, and calculus.',
                     'Developed customized lesson plans for each student based on their strengths and weaknesses.'
                 ]
             }
