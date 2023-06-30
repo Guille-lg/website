@@ -1,0 +1,19 @@
+.button {
+    transition: all 0.3s ease 0s;
+}
+
+.button:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-5px);
+    border-radius: 5rem;
+}
+
+.social-card-container:hover {
+    transform: translateY(-15px);
+}
+
+input:invalid {
+    outline: none !important;
+    border: 1px solid rgb(206, 212, 218);
+    color: #CED4DA;
+}

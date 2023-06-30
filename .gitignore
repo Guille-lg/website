@@ -1,0 +1,37 @@
+# Compiled files
+*.class
+*.o
+*.pyc
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Package files
+*.egg-info/
+dist/
+build/
+venv/
+pip-lock.txt
+requirements.txt
+
+# Environment files
+.env
+.env.*
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
